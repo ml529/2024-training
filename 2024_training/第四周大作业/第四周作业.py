@@ -37,3 +37,4 @@ for entry in data_info:
 session.commit()
 session.close()
 
+
