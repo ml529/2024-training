@@ -22,3 +22,4 @@ try:
             print(line.strip())
 except FileNotFoundError:
     print("抱歉，文件 dogs.txt 未找到。")
+    
